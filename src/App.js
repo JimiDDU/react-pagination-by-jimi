@@ -30,7 +30,7 @@ export default function App() {
   };
   return (
     <div className="App">
-      <h1>React Pagination</h1>
+      <h1>React Pagination by jimi</h1>
       <button
         disabled={currentPage === 1 ? true : false}
         onClick={() => handleClick(-1)}
